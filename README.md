@@ -12,6 +12,8 @@ into the text box. Otherwise, you can provide a custom callback function to rece
 
 [View a demo](http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/)
 
+This repository is mainly a transition from datejs to sugarjs library.
+
 ## Usage
 
 This component relies on [Twitter Bootstrap](http://twitter.github.com/bootstrap/),
